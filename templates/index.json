@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "title": "En 30 secondes, changez d’apparence et regagnez une confiance totale",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         },
@@ -56,13 +56,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -400,6 +400,41 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
+    },
+    "comparison_slider_qQx9d9": {
+      "type": "comparison-slider",
+      "name": "Before & After slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Before & After slider",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>Highlight key differences between before and after using your product.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "slider_second",
+        "before_label": "Before",
+        "after_label": "After",
+        "labels_color_scheme": "accent-1",
+        "line_color": "background-1",
+        "arrows_style": "circle",
+        "before_image": "shopify://shop_images/rn-image_picker_lib_temp_2_db2768b4-afd8-4f09-b1d6-3f58910c76ff.jpg",
+        "after_image": "shopify://shop_images/Photoroom_1_655a4de2-14bb-4f9a-b1c9-459613a3fdf3.png",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
     }
   },
   "order": [
@@ -407,6 +442,7 @@
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
-    "contact_form_WHP8G7"
+    "contact_form_WHP8G7",
+    "comparison_slider_qQx9d9"
   ]
 }
