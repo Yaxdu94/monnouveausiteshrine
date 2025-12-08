@@ -66,6 +66,98 @@
         "custom_section_gradient_background": ""
       }
     },
+    "image_with_text_4iLqW8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Tni87D": {
+          "type": "heading",
+          "settings": {
+            "title": "Je n’étais pas seul.",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2"
+          }
+        },
+        "text_MaPcwX": {
+          "type": "text",
+          "settings": {
+            "text": "<h5> à nous lever chaque matin avec ce même rituel silencieux</h5><h5>Scruter le miroir sous tous les angles, en espérant que ça ne se voit pas trop<br/><br/>Ajuster une casquette comme une armure avant de franchir la porte<br/><br/>Dire non à des opportunités… juste parce que la caméra sera allumée<br/></h5><h5> Sentir, jour après jour, notre confiance s’effriter un peu plus</h5>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tni87D",
+        "text_MaPcwX"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/26.jpg",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 40,
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "comparison_slider_qQx9d9": {
+      "type": "comparison-slider",
+      "name": "Before & After slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Before & After slider",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "<p>Highlight key differences between before and after using your product.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "slider_second",
+        "before_label": "Before",
+        "after_label": "After",
+        "labels_color_scheme": "accent-1",
+        "line_color": "background-1",
+        "arrows_style": "circle",
+        "before_image": "shopify://shop_images/rn-image_picker_lib_temp_2_db2768b4-afd8-4f09-b1d6-3f58910c76ff.jpg",
+        "after_image": "shopify://shop_images/Photoroom_1_655a4de2-14bb-4f9a-b1c9-459613a3fdf3.png",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
       "type": "comparison-table",
       "blocks": {
@@ -399,98 +491,6 @@
         "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
-      }
-    },
-    "comparison_slider_qQx9d9": {
-      "type": "comparison-slider",
-      "name": "Before & After slider",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Before & After slider",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "<p>Highlight key differences between before and after using your product.</p>",
-        "button_label": "",
-        "link": "",
-        "button_style_secondary": false,
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
-        "color_scheme": "background-1",
-        "layout": "slider_second",
-        "before_label": "Before",
-        "after_label": "After",
-        "labels_color_scheme": "accent-1",
-        "line_color": "background-1",
-        "arrows_style": "circle",
-        "before_image": "shopify://shop_images/rn-image_picker_lib_temp_2_db2768b4-afd8-4f09-b1d6-3f58910c76ff.jpg",
-        "after_image": "shopify://shop_images/Photoroom_1_655a4de2-14bb-4f9a-b1c9-459613a3fdf3.png",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "image_with_text_4iLqW8": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Tni87D": {
-          "type": "heading",
-          "settings": {
-            "title": "Je n’étais pas seul.",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h2"
-          }
-        },
-        "text_MaPcwX": {
-          "type": "text",
-          "settings": {
-            "text": "<h5> à nous lever chaque matin avec ce même rituel silencieux</h5><h5>Scruter le miroir sous tous les angles, en espérant que ça ne se voit pas trop<br/><br/>Ajuster une casquette comme une armure avant de franchir la porte<br/><br/>Dire non à des opportunités… juste parce que la caméra sera allumée<br/></h5><h5> Sentir, jour après jour, notre confiance s’effriter un peu plus</h5>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Tni87D",
-        "text_MaPcwX"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/26.jpg",
-        "video_autoplay": true,
-        "video_loop": true,
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "full_desktop_width": false,
-        "content_layout": "no-overlap",
-        "desktop_media_width": 40,
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_full_media_width": false,
-        "mobile_direction": "normal",
-        "mobile_image_quanlity": "2",
-        "mobile_content_alignment": "left",
-        "mobile_padding_top": 0,
-        "mobile_padding_bottom": 16,
-        "desktop_padding_top": 36,
-        "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
-        "custom_section_gradient_background": ""
       }
     }
   },

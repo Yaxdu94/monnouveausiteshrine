@@ -53,7 +53,7 @@
         "stop_on_hover": false,
         "mobile_spacing": 50,
         "desktop_spacing": 100,
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "mobile_text_size": 11,
         "desktop_text_size": 11,
         "italic_text": false,
@@ -70,9 +70,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "linear-gradient(270deg, rgba(240, 110, 105, 1), rgba(249, 208, 163, 1) 100%)",
+        "custom_colors_text": "#ffffff"
       }
     },
     "header": {
@@ -80,7 +80,7 @@
       "settings": {
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "logo_link": "/",
         "logo_position": "middle-left",
         "menu": "main-menu",
