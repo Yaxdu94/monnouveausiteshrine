@@ -453,20 +453,11 @@
             "text": "<h5> à nous lever chaque matin avec ce même rituel silencieux</h5><h5>Scruter le miroir sous tous les angles, en espérant que ça ne se voit pas trop<br/><br/>Ajuster une casquette comme une armure avant de franchir la porte<br/><br/>Dire non à des opportunités… juste parce que la caméra sera allumée<br/></h5><h5> Sentir, jour après jour, notre confiance s’effriter un peu plus</h5>",
             "text_style": "subtitle"
           }
-        },
-        "button_FVTJzz": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_Tni87D",
-        "text_MaPcwX",
-        "button_FVTJzz"
+        "text_MaPcwX"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -505,11 +496,11 @@
   },
   "order": [
     "image_with_text_TLHyzM",
+    "image_with_text_4iLqW8",
+    "comparison_slider_qQx9d9",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
-    "contact_form_WHP8G7",
-    "comparison_slider_qQx9d9",
-    "image_with_text_4iLqW8"
+    "contact_form_WHP8G7"
   ]
 }
